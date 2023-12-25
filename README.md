@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/eallyy/newspoon">
-    <img src="https://storage.needpix.com/rsynced_images/newspaper-307829_1280.png" alt="Logo" height="80">
+    <img src="https://www.raadrechtshandhaving.com/wp-content/uploads/2016/04/Newspaper-Free-Download-PNG.png" alt="Logo" height="80">
   </a>
 
 <h3 align="center">NEWSpoon</h3>
